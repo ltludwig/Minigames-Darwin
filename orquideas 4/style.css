@@ -1,0 +1,13 @@
+html, body {
+  background-color: rgb(235,222,193);
+}
+canvas {
+	/*border:red 3px solid;*/
+    position: absolute; 
+	width: 1200; 
+	height: 800px; 
+	left: 50%; 
+	top: 50%; 
+	margin-left: -600px; /* This is half the width */ 
+	margin-top: -400px; /* This is half the height */ 
+}

@@ -1,0 +1,23 @@
+html, body {
+  overflow: hidden;
+  margin: 0;
+  padding: 0;
+  background: rgb(153, 130, 72);
+} 
+
+#sketch-holder {
+  text-align: center;
+
+
+}
+ 
+canvas { 
+	position: absolute; 
+	width: 1200px; 
+	height: 800; 
+	left: 50%; 
+	top: 50%; 
+	margin-left: -600px; /* This is half the width */ 
+	margin-top: -390px; /* This is half the height */ 
+}
+
